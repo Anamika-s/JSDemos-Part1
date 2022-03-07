@@ -1,0 +1,4 @@
+const d = new Date();
+console.log(d);
+let day = d.getDate();
+console.log(day)
